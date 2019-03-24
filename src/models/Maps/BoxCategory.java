@@ -1,0 +1,6 @@
+
+package models.Maps;
+
+public enum BoxCategory {
+    OBSTACLE, BOTIQUIN,DANGEROUS,FREEWAY,CHARACTER,HOME_ONE,HOME_TWO,CHILDREN_1,CHILDREN_2
+}
