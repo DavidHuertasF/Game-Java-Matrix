@@ -26,7 +26,7 @@ distintas.</p>
 Para el primer tipo de juego se debe desplazar el jugador por un mapa (matriz), en  el camino tienes que encontrar sobrevivientes (1,2,3...) y llevarlos hasta los refugios (h1,h2,h3...) respectivamente.
 Esto sólo lo puedes hacer en unos pasos limitados, y cada vez que te encuentras con un punto maldito (calavera) pierdes parte de tu vida.. ten cuidado con eso !</p>
 
-<img src="https://raw.githubusercontent.com/DavidHuertasF/Game-Java-Matrix/master/screenshots/6.JPG" alt="Italian Trulli">
+<img src="https://raw.githubusercontent.com/DavidHuertasF/Game-Java-Matrix/master/screenshots/6.jpg" alt="Italian Trulli">
 
 <p>Una vez lleves los sobrevivientes a sus refugios debes enfrentarte a un lider oscuro, utilizando los poderes de tu personaje</p>
 
