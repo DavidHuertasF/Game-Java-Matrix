@@ -15,7 +15,7 @@ Estructura del proyecto
 <img src="https://raw.githubusercontent.com/DavidHuertasF/Game-Java-Matrix/master/screenshots/9.JPG" alt="Italian Trulli">
 
 <h1>"Expedition in search of the treasure" </h1> 
-<p>El portal que de conecta con el lado oscuro del universo fue abierto, hay muy pocos sobrevivientes y se esconden en refugios .
+<p>El portal que se conecta con el lado oscuro del universo fue abierto, hay muy pocos sobrevivientes y se esconden en refugios .
 Quedan muy pocos heroes en el mundo.
 
 Para vencer los líderes del lado oscuro tienes que escoger un tipo de personaje. Cada personaje tiene recursos y habilidades 
